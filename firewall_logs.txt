@@ -1,0 +1,8 @@
+[Fri Oct 24 01:21:42 2025] Blocked SQL Injection from 127.0.0.1
+[Fri Oct 24 01:24:07 2025] Blocked SQL Injection from 127.0.0.1
+[Fri Oct 24 01:25:26 2025] Blocked SQL Injection from 127.0.0.1
+[Fri Oct 24 01:27:10 2025] Blocked SQL Injection from 127.0.0.1
+[Fri Oct 24 01:27:53 2025] Blocked SQL Injection from 127.0.0.1
+[Fri Oct 24 02:17:15 2025] Blocked SQL Injection from 127.0.0.1
+[Fri Oct 24 18:26:07 2025] Blocked SQL Injection from 127.0.0.1
+[Fri Oct 24 18:31:45 2025] Blocked XSS Attack from 127.0.0.1
